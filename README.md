@@ -10,7 +10,6 @@ On your host Linux box, install [BloodHound](https://github.com/BloodHoundAD/Blo
 sudo apt update && sudo apt install -y bloodhound
 ```
 ## Installation
-On your host Linux box, install [BloodHound](https://github.com/BloodHoundAD/BloodHound):
 ```ps1
 # Debian/Ubuntu/Kali
 chmod +x start.sh
